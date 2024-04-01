@@ -1,0 +1,15 @@
+.services {
+
+    text-align: center;
+}
+.service{
+    display:inline-block;
+    width: 16%;
+}
+
+p {
+    color:gray;
+}
+i{
+    color:orangered;
+}
